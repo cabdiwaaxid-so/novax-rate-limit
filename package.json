@@ -1,0 +1,30 @@
+{
+  "name": "novax-rate-limit",
+  "version": "1.0.0",
+  "description": "rate limiting middleware plugin for Novaxjs2 framework with multiple storage options and flexible configuration",
+  "main": "index.js",
+  "keywords": [
+    "novaxjs2",
+    "rate-limiting",
+    "middleware",
+    "plugin",
+    "security",
+    "api",
+    "throttling"
+  ],
+  "author": "Cabdi Waaxid Siciid < cabdiwaaxidsiciid100@gmail.com >",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabdiwaaxid-so/novax-rate-limit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cabdiwaaxid-so/novax-rate-limit/issues"
+  },
+  "homepage": "https://github.com/cabdiwaaxid-so/novax-rate-limit#readme",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
